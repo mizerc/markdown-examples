@@ -5,6 +5,8 @@ Aaaaa
 AAAAAA
 
 =============
+
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/aaaaaaaaaaaa)
   
   
 # Heading 1
