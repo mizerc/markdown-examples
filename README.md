@@ -1,5 +1,8 @@
 Getting started with Markdown
 ===
+# Image
+
+<img src="right-arrow.svg" width="42" height="42">
 
 # Table
 
