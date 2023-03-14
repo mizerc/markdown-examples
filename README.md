@@ -8,6 +8,7 @@ AAAAAA
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/aaaaaaaaaaaa)
 
+**Boost your development and feel free to use your imagination!**
 
 If you want to keep up to date with the latest PixiJS news then feel free to follow us on Twitter [@PixiJS](https://twitter.com/PixiJS)
 and we will keep you posted! You can also check back on [our site](https://www.pixijs.com)
