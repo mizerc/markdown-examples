@@ -1,8 +1,15 @@
+Getting started with Markdown
+===
+
 Aaaaa
 
 =============
 
 AAAAAA
+
+- [ ] Item A
+- [x] Item B
+- [x] Item C
 
 =============
 
