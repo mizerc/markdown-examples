@@ -6,7 +6,11 @@ Getting started with Markdown
 
 <img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="100">
 
+<img src="left-arrow.svg" width="50" height="50">
+
 <img src="left-arrow.svg" width="50" height="100">
+
+<img src="left-arrow.svg" width="500" height="50">
 
 # Table
 
