@@ -1,6 +1,29 @@
 Getting started with Markdown
 ===
 
+# Table
+<table>
+  <tr>
+    <th>column 1</th>
+    <th>column 2</th>
+    <th>column 3</th>
+  </tr>
+  <tr>
+    <td>row 1 - column 1</td>
+    <td>row 1 - column 2</td>
+    <td rowspan="2" align="center">row 1 & 2 - column 3</td>
+  </tr>
+  <tr>
+    <td>row 2 - column 1</td>
+    <td>row 2 - column 2</td>
+  </tr>
+</table>
+
+# Random
+
+- [Getting started with Markdown](#getting-started-with-markdown)
+- [Titles](#titles)
+
 Aaaaa
 
 =============
