@@ -2,7 +2,9 @@ Getting started with Markdown
 ===
 # Image
 
-<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="42" height="42">
+<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">
+
+<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="100">
 
 # Table
 
