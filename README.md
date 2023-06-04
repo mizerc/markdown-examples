@@ -1,24 +1,81 @@
-Getting started with Markdown
-===
-# Image
+# Markdown examples
 
-<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">
+# Headings
 
-<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="100">
+# Heading 1
+Text.
+## Heading 2
+Text.
 
-<img src="left-arrow.svg" width="50" height="50">
+### Heading 3
 
-`<img src="left-arrow.svg" width="50" height="50">`
+Text.
 
-<img src="left-arrow.svg" width="50" height="100">
+# New lines
 
-`<img src="left-arrow.svg" width="500" height="100">`
+### You can use double space
+This is the first line.  
+This is the second line.  
 
-<img src="left-arrow.svg" width="500" height="50">
+### Or you can use backslack `\`
+This is the first line.\
+This is the second line.\
 
-`<img src="left-arrow.svg" width="500" height="50">`
+### Or you can use the HTML `<br>` tag.  
+This is the first line.<br>
+This is the second line.<br>
 
-# Table
+# Code blocks
+
+```
+This is a code block.
+int a = 10;
+int b = 20;
+```
+
+# Word code
+
+The following `word` is a single line code.
+
+# Tables
+
+## Markdown tables
+
+### Example 1
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+### Example 2
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+### Example 3
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
+## HTML tables
+
+<table>
+  <tr>
+    <th>col 1</th>
+    <th>col 2</th>
+    <th>col 3</th>
+  </tr>
+  <tr>
+    <td>row 1 - col 1</td>
+    <td>row 1 - col 2</td>
+    <td>row 1 - col 3</td>
+  </tr>
+</table>
 
 ## rowspan
 
@@ -57,6 +114,40 @@ Getting started with Markdown
     <td>row 2 - column 3</td>
   </tr>
 </table>
+
+# Task list
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+# Mermaid diagram
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+# Images
+
+<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">
+
+<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="100">
+
+<img src="left-arrow.svg" width="50" height="50">
+
+`<img src="left-arrow.svg" width="50" height="50">`
+
+<img src="left-arrow.svg" width="50" height="100">
+
+`<img src="left-arrow.svg" width="500" height="100">`
+
+<img src="left-arrow.svg" width="500" height="50">
+
+`<img src="left-arrow.svg" width="500" height="50">`
 
 # Random
 
