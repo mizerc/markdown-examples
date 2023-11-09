@@ -11,8 +11,13 @@ Text.
 Text.
 
 ##### Heading 5
+Text.
 
 ###### Heading 6
+Text.
+
+####### Heading 7
+Text.
 
 # New lines
 
