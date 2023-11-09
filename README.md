@@ -19,9 +19,9 @@ Text.
 ####### Heading 7
 Text.
 
-# New lines
+# New line
 
-### You can use double space
+### You can use `double space`
 This is the first line.  
 This is the second line.  
 
@@ -29,16 +29,17 @@ This is the second line.
 This is the first line.\
 This is the second line.\
 
-### Or you can use the HTML `<br>` tag.  
+### Or you can use the HTML `<br>` tag
 This is the first line.<br>
 This is the second line.<br>
 
-# Code blocks
+# Code block
 
-```
-This is a code block.
-int a = 10;
-int b = 20;
+```js
+// This is a code block.
+const a = 10;
+let b = 0x10;
+var c = "30";
 ```
 
 # Word code
