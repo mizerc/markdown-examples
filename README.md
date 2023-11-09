@@ -10,6 +10,10 @@ Text.
 #### Heading 4
 Text.
 
+##### Heading 5
+
+###### Heading 6
+
 # New lines
 
 ### You can use double space
