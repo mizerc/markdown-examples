@@ -140,6 +140,14 @@ graph TD;
     C-->D;
 ```
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 # Images
 
 <img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">
