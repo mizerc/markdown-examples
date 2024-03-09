@@ -38,8 +38,16 @@ Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
 
 # Links
 
-- [Getting started with Markdown](#getting-started-with-markdown)
-- [Titles](#titles)
+### Text link
+
+- [Link to external website](www.google.com)
+- [Link to heading](#heading-1)
+
+### Pill image link
+
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/aaaaaaaaaaaa)
+
+**Boost your development and feel free to use your imagination!**
 
 # Adding `newline` to sentence
 
@@ -214,6 +222,14 @@ solid cube_corner
   endfacet
 endsolid
 ```
+### HTML render
+
+<div align="center">
+  <a href="www.google.com" target="_blank">
+    <img src="https://opencollective.com/pixijs/donate/button@2x.png?color=blue" width=250 />
+  </a>
+</div>  
+
 
 ### Mermaid diagram render
 
@@ -250,26 +266,3 @@ graph TD;
 <img src="left-arrow.svg" width="500" height="50">
 
 `<img src="left-arrow.svg" width="500" height="50">`
-
-# Random
-
-
-
-
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/aaaaaaaaaaaa)
-
-**Boost your development and feel free to use your imagination!**
-
-If you want to keep up to date with the latest PixiJS news then feel free to follow us on Twitter [@PixiJS](https://twitter.com/PixiJS)
-and we will keep you posted! You can also check back on [our site](https://www.pixijs.com)
-as any breakthroughs will be posted up there too!
-  
-<div align="center">
-  <a href="https://opencollective.com/pixijs/donate" target="_blank">
-    <img src="https://opencollective.com/pixijs/donate/button@2x.png?color=blue" width=250 />
-  </a>
-</div>  
-
-Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups. Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-
-
