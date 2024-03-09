@@ -36,6 +36,11 @@ Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
 Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
 Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
 
+# Links
+
+- [Getting started with Markdown](#getting-started-with-markdown)
+- [Titles](#titles)
+
 # Adding `newline` to sentence
 
 ### You can use `double space`
@@ -77,11 +82,18 @@ void getWidth()
 ```
 
 # Bullet list
-- Bullet list 1
-  - List 2
+
+- Bullet item 1
+- Bullet list 2
+  - Nested bullet item
     - List 3
    
-  
+# Checkbox
+
+- [ ] Item A
+- [x] Item B
+- [x] Item C
+
 # Tables
 
 ## Markdown tables
@@ -241,20 +253,8 @@ graph TD;
 
 # Random
 
-- [Getting started with Markdown](#getting-started-with-markdown)
-- [Titles](#titles)
 
-Aaaaa
 
-=============
-
-AAAAAA
-
-- [ ] Item A
-- [x] Item B
-- [x] Item C
-
-=============
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/aaaaaaaaaaaa)
 
