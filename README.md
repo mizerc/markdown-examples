@@ -105,9 +105,7 @@ void getWidth()
 - [ ] https://github.com/rieowpirpoweipro
 - [ ] Tada emoji :tada:
 
-# Tables
-
-## Markdown tables
+# Markdown tables
 
 ### Example 1
 
@@ -116,12 +114,26 @@ void getWidth()
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+```
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+```
+
 ### Example 2
 
 | Command | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
+
+```
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+```
 
 ### Example 3
 
@@ -130,7 +142,16 @@ void getWidth()
 | Backtick | `         |
 | Pipe     | \|        |
 
-## HTML tables
+```
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+```
+
+# HTML tables
+
+### Classic
 
 <table>
   <tr>
@@ -145,7 +166,22 @@ void getWidth()
   </tr>
 </table>
 
-## rowspan
+```html
+<table>
+  <tr>
+    <th>col 1</th>
+    <th>col 2</th>
+    <th>col 3</th>
+  </tr>
+  <tr>
+    <td>row 1 - col 1</td>
+    <td>row 1 - col 2</td>
+    <td>row 1 - col 3</td>
+  </tr>
+</table>
+```
+
+### rowspan
 
 <table>
   <tr>
@@ -164,7 +200,7 @@ void getWidth()
   </tr>
 </table>
 
-## colspan
+### colspan
 
 <table>
   <tr>
