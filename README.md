@@ -215,23 +215,20 @@ void getWidth()
 
 # Images/Pictures/Video
 
-### HTML image from URL
+### HTML JPEG image from URL
 
-`<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">`
-<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">
+<img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg" width="100" height="100">
+`<img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg" width="100" height="100">`
 
+### HTML SVG image hosted in this repo
 
-### HTML image hosted in this repo
-`<img src="left-arrow.svg" width="50" height="50">`
 <img src="left-arrow.svg" width="50" height="50">
+`<img src="left-arrow.svg" width="50" height="50">`
 
-### Markdown imagem
-
+### Markdown JPEG imagem from URL
+ 
 ![Alt text](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg)
 `![Alt text](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg)`
-
-<img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg">
-`<img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg">`
 
 # HTML render
 
