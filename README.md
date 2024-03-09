@@ -218,34 +218,22 @@ void getWidth()
 ### HTML JPEG image from URL
 
 <img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg" width="100" height="100">
-`<img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg" width="100" height="100">`
 
 ### HTML SVG image hosted in this repo
 
 <img src="left-arrow.svg" width="50" height="50">
-`<img src="left-arrow.svg" width="50" height="50">`
 
 ### Markdown JPEG imagem from URL
  
 ![Alt text](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg)
-`![Alt text](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg)`
 
 # HTML render
 
 <div align="center">
   <a href="www.google.com" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg" width=200 />
+    <h1>This is H1 inside <a></h1>
   </a>
-</div>  
-
-```html
-<div align="center">
-  <a href="www.google.com" target="_blank">
-    <img src="https://commons.wikimedia.org/wiki/Main_Page#/media/File:Sunset_at_Noronhas'_beach.jpg" width=200 />
-  </a>
-</div>  
-```
-
+</div>
 
 # File render
 
