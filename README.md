@@ -235,7 +235,7 @@ void getWidth()
   </a>
 </div>
 
-# File render
+# Render
 
 ### SVG render
 ```svg
@@ -244,7 +244,7 @@ void getWidth()
 </svg>
 ```
 
-### STL file render
+### STL model render
 
 ```stl
 solid cube_corner
@@ -288,14 +288,5 @@ graph TD;
     B-->D;
     C-->D;
 ```
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 
 
