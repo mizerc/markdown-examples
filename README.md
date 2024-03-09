@@ -101,6 +101,9 @@ void getWidth()
 - [ ] Item A
 - [x] Item B
 - [x] Item C
+- [ ] #739
+- [ ] https://github.com/rieowpirpoweipro
+- [ ] Tada emoji :tada:
 
 # Tables
 
@@ -180,11 +183,17 @@ void getWidth()
   </tr>
 </table>
 
-# Task list
+# Images/Pictures/Video
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+### Image from web
+
+`<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">`
+<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">
+
+
+### Image hosted in this repository
+`<img src="left-arrow.svg" width="50" height="50">`
+<img src="left-arrow.svg" width="50" height="50">
 
 # File render
 
@@ -249,15 +258,5 @@ graph TD;
     C-->D;
 ```
 
-### Image render
 
-#### Image from web
-
-`<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">`
-<img src="https://opencollective.com/pixijs/donate/button@2x.png" width="50" height="50">
-
-
-#### Image hosted in this repository
-`<img src="left-arrow.svg" width="50" height="50">`
-<img src="left-arrow.svg" width="50" height="50">
 
