@@ -4,7 +4,7 @@
 
 The following `word` is a single line code.
 
-## Block highligth
+## Block highlight
 
 ```js
 // This is a javascript code block.
