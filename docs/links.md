@@ -3,7 +3,7 @@
 ### Text link
 
 - [Link to heading inside this file](#heading-1)
-- [Link to another file inside this repo](docs/test1.md)
+- [Link to another file inside this repo](docs/tables.md)
 - [Link to external website](www.google.com)
 
 ### Pill image link
