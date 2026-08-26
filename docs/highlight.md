@@ -1,10 +1,10 @@
-# Highligth
+# Highlight
 
-### Single word highlight
+## Single word highlight
 
 The following `word` is a single line code.
 
-### Block highligth
+## Block highligth
 
 ```js
 // This is a javascript code block.
