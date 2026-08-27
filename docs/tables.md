@@ -1,50 +1,64 @@
-# TABLES
+# Tables
 
 ## Markdown table
 
 ### Example 1
+
+Result:
 
 | First Header | Second Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
 
+Syntax:
+
 ```
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
 ```
 
 ### Example 2
+
+Result:
 
 | Command      | Description                                        |
 | ------------ | -------------------------------------------------- |
 | `git status` | List all _new or modified_ files                   |
 | `git diff`   | Show file differences that **haven't been** staged |
 
+Syntax:
+
 ```
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Command      | Description                                        |
+| ------------ | -------------------------------------------------- |
+| `git status` | List all _new or modified_ files                   |
+| `git diff`   | Show file differences that **haven't been** staged |
 ```
 
 ### Example 3
+
+Result:
 
 | Name     | Character |
 | -------- | --------- |
 | Backtick | `         |
 | Pipe     | \|        |
 
+Syntax:
+
 ```
 | Name     | Character |
-| ---      | ---       |
+| -------- | --------- |
 | Backtick | `         |
 | Pipe     | \|        |
 ```
 
 ## HTML table
+
+Result:
 
 <table>
   <tr>
@@ -58,6 +72,8 @@
     <td>row 1 - col 3</td>
   </tr>
 </table>
+
+Syntax:
 
 ```html
 <table>
@@ -74,7 +90,7 @@
 </table>
 ```
 
-### rowspan
+### HTML Table Rowspan
 
 <table>
   <tr>
@@ -93,7 +109,7 @@
   </tr>
 </table>
 
-### colspan
+### HTML Table Colspan
 
 <table>
   <tr>
