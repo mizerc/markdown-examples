@@ -7,8 +7,13 @@ This is the second line.
 
 ### Or you can use backslack `\`
 
+```
 This is the first line.\
-This is the second line.\
+This is the second line.
+```
+
+This is the first line.\
+This is the second line.
 
 ### Or you can use the HTML `<br>` tag
 
