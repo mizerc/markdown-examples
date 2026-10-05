@@ -1,4 +1,4 @@
-# HEADINGS EXAMPLES
+# HEADING EXAMPLES
 
 # Heading 1
 
