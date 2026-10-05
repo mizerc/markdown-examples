@@ -8,7 +8,7 @@ Collection of Markdown examples.
 - [Links](docs/links.md)
 - [Formatting](docs/formatting.md)
 - [New line](docs/newline.md)
-- [Highligth](docs/highligth.md)
+- [highlight](docs/highlight.md)
 - [Lists](docs/lists.md)
 - [Tables](docs/tables.md)
 - [Images, Pictures, Videos](docs/images.md)
