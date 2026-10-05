@@ -108,17 +108,3 @@ graph TD;
     B-->D;
     C-->D;
 ```
-
-# From external file inside repository
-
-## STL from file inside this repo
-
-Syntax:
-
-```text
-![3D model](../resources/cube.stl)
-```
-
-Result:
-
-![3D model](../resources/cube.stl)
